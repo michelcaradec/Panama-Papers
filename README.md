@@ -7,3 +7,5 @@ Après un rappel de l'affaire, les éléments seront détaillés, du point de vu
 S'en suivra une présentation des diverses méthodes et technologies employées, sur la base d'exemples concrets, ainsi que des modes d'investigation et d'organisation mis en oeuvre dans cette enquête de data-journalisme sans précédent.
 
 Cet exposé, orienté technologie mais sans être trop technique, s'adresse aussi bien aux journalistes et journalistes de données qu'aux personnes intéressées par le traitement des données en général.
+
+Présentation réalisé avec [Marp](https://yhatt.github.io/marp/) et [draw.io](https://www.draw.io).
